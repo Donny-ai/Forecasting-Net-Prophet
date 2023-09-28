@@ -16,7 +16,7 @@ In this project I processed and analyzed traffic, sales, and stock price data fr
 ## Search Seasonality
 
 ### Search Traffic by Day of Week
-![DayofWeek](Instructions/Images/searchbydayofweek.png)
+![DayofWeek](Instructions/Images/searchbydayofweek.png)  
 *Starts with Monday at 0*
 
 ### Heatmap displaying hourly search traffic against day of the week
@@ -32,7 +32,7 @@ In this project I processed and analyzed traffic, sales, and stock price data fr
 ## Relating Search Traffic with Stock Price Patterns
 
 ### Search Trends and Company Stock Price
-![search_vs_stock](searchvsprice.png)
+![search_vs_stock](Instructions/Images/searchvsprice.png)
 
 **Observation:** The rise in stock price after the crash of March 2020 was not matched by a rise in search traffic. 
 
